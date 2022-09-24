@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+textarea {
+ width: 100px; 
+ height: 100px ;  
+ color : blue ;
+ background-color: black;
+ font-size: 2em;
+ text-align: center;
+
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
